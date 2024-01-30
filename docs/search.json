@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "test_gha",
     "section": "",
-    "text": "test_gha\nThis repo tests whether GitHub Actions can build the adodownr documentation site on push to main.\nIt is now 9:34 AM, January 30, 2024"
+    "text": "test_gha\nThis repo tests whether GitHub Actions can build the adodownr documentation site on push to main.\nIt is now 10:33 AM, January 30, 2024"
   },
   {
     "objectID": "news.html",
@@ -28,20 +28,6 @@
     "text": "Version 0.1\n\nChange 1\nChange 2"
   },
   {
-    "objectID": "articles/topic1.html",
-    "href": "articles/topic1.html",
-    "title": "Topic 1",
-    "section": "",
-    "text": "Some discussion of topic 1"
-  },
-  {
-    "objectID": "articles/topic2.html",
-    "href": "articles/topic2.html",
-    "title": "Topic 2",
-    "section": "",
-    "text": "Some discussion of topic 2"
-  },
-  {
     "objectID": "src/vignettes/topic1.html",
     "href": "src/vignettes/topic1.html",
     "title": "Topic 1",
@@ -54,48 +40,6 @@
     "title": "Topic 2",
     "section": "",
     "text": "Some discussion of topic 2"
-  },
-  {
-    "objectID": "src/mdhlp/command1.html",
-    "href": "src/mdhlp/command1.html",
-    "title": "",
-    "section": "",
-    "text": "commandname1 - This first command is used for short description."
-  },
-  {
-    "objectID": "src/mdhlp/command1.html#title",
-    "href": "src/mdhlp/command1.html#title",
-    "title": "",
-    "section": "",
-    "text": "commandname1 - This first command is used for short description."
-  },
-  {
-    "objectID": "src/mdhlp/command1.html#syntax",
-    "href": "src/mdhlp/command1.html#syntax",
-    "title": "",
-    "section": "Syntax",
-    "text": "Syntax\ncommandname1 using path/to/file [if] [in] , option1(_variable_) [ option2(_string_) option3(_format_) ]\nOptional description of otherwise potentially confusing non-standard items in syntax, such as path/to/file or what variable is intended to be.\n\n\n\n\n\n\n\noption\nDescription\n\n\n\n\noption1(_variable_)\nShort description of option1 and what variable is intended to be.\n\n\noption2(_string_)\nShort description of option2\n\n\noption3(_format_)\nShort description of option3"
-  },
-  {
-    "objectID": "src/mdhlp/command1.html#description",
-    "href": "src/mdhlp/command1.html#description",
-    "title": "",
-    "section": "Description",
-    "text": "Description\nLonger description of the intended use of the command and best practices related to the usage."
-  },
-  {
-    "objectID": "src/mdhlp/command1.html#options",
-    "href": "src/mdhlp/command1.html#options",
-    "title": "",
-    "section": "Options",
-    "text": "Options\nLonger description (paragraph length) of all options, their intended use case and best practices related to them.\noption1(_variable_) is used for xyz. Longer description (paragraph length) of all options, their intended use case and best practices related to them."
-  },
-  {
-    "objectID": "src/mdhlp/command1.html#examples",
-    "href": "src/mdhlp/command1.html#examples",
-    "title": "",
-    "section": "Examples",
-    "text": "Examples\nA couple of examples to help the user get started and a short explanation of each of them"
   },
   {
     "objectID": "src/mdhlp/command2.html",
@@ -140,6 +84,69 @@
     "text": "Examples\nA couple of examples to help the user get started and a short explanation of each of them"
   },
   {
+    "objectID": "src/mdhlp/command1.html",
+    "href": "src/mdhlp/command1.html",
+    "title": "",
+    "section": "",
+    "text": "commandname1 - This first command is used for short description."
+  },
+  {
+    "objectID": "src/mdhlp/command1.html#title",
+    "href": "src/mdhlp/command1.html#title",
+    "title": "",
+    "section": "",
+    "text": "commandname1 - This first command is used for short description."
+  },
+  {
+    "objectID": "src/mdhlp/command1.html#syntax",
+    "href": "src/mdhlp/command1.html#syntax",
+    "title": "",
+    "section": "Syntax",
+    "text": "Syntax\ncommandname1 using path/to/file [if] [in] , option1(_variable_) [ option2(_string_) option3(_format_) ]\nOptional description of otherwise potentially confusing non-standard items in syntax, such as path/to/file or what variable is intended to be.\n\n\n\n\n\n\n\noption\nDescription\n\n\n\n\noption1(_variable_)\nShort description of option1 and what variable is intended to be.\n\n\noption2(_string_)\nShort description of option2\n\n\noption3(_format_)\nShort description of option3"
+  },
+  {
+    "objectID": "src/mdhlp/command1.html#description",
+    "href": "src/mdhlp/command1.html#description",
+    "title": "",
+    "section": "Description",
+    "text": "Description\nLonger description of the intended use of the command and best practices related to the usage."
+  },
+  {
+    "objectID": "src/mdhlp/command1.html#options",
+    "href": "src/mdhlp/command1.html#options",
+    "title": "",
+    "section": "Options",
+    "text": "Options\nLonger description (paragraph length) of all options, their intended use case and best practices related to them.\noption1(_variable_) is used for xyz. Longer description (paragraph length) of all options, their intended use case and best practices related to them."
+  },
+  {
+    "objectID": "src/mdhlp/command1.html#examples",
+    "href": "src/mdhlp/command1.html#examples",
+    "title": "",
+    "section": "Examples",
+    "text": "Examples\nA couple of examples to help the user get started and a short explanation of each of them"
+  },
+  {
+    "objectID": "articles/topic1.html",
+    "href": "articles/topic1.html",
+    "title": "Topic 1",
+    "section": "",
+    "text": "Some discussion of topic 1"
+  },
+  {
+    "objectID": "articles/topic2.html",
+    "href": "articles/topic2.html",
+    "title": "Topic 2",
+    "section": "",
+    "text": "Some discussion of topic 2"
+  },
+  {
+    "objectID": "reference/index.html",
+    "href": "reference/index.html",
+    "title": "Function reference",
+    "section": "",
+    "text": "Functions\nDescription\n\n\n\n\ncommand1\nThis first command is used for short description.\n\n\ncommand2\nThis second command is used for short description."
+  },
+  {
     "objectID": "reference/command2.html",
     "href": "reference/command2.html",
     "title": "command2.md",
@@ -180,13 +187,6 @@
     "title": "command2.md",
     "section": "Examples",
     "text": "Examples\nA couple of examples to help the user get started and a short explanation of each of them"
-  },
-  {
-    "objectID": "reference/index.html",
-    "href": "reference/index.html",
-    "title": "Function reference",
-    "section": "",
-    "text": "Functions\nDescription\n\n\n\n\ncommand1\nThis first command is used for short description.\n\n\ncommand2\nThis second command is used for short description."
   },
   {
     "objectID": "reference/command1.html",
