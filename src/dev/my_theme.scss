@@ -1,0 +1,14 @@
+/*-- scss:defaults --*/
+$navbar-bg: black;
+$navbar-fg: #88ff55;
+$body-color: white;
+$body-bg: black;
+$link-color: #a6e3a1;
+$table-color: #a6e3a1;
+
+/*-- scss:rules --*/
+
+h1, h2, h3, h4, h1>code {
+  color: #88ff55;
+  text-shadow: 1px 1px 2px black, 0 0 1em #88ff55, 0 0 0.2em #88ff55;
+}
